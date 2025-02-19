@@ -1,4 +1,4 @@
-# level intro1
+# Introduction Sequence
 
 ## 1: Introduction to Git Commits
 
@@ -9,7 +9,7 @@ git commit
 git commit
 ```
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
 ## 2: Branching in Git
 
@@ -20,7 +20,7 @@ git branch bugFix
 git checkout bugFix
 ```
 
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
 ## 3: Merging in Git
 
@@ -35,7 +35,7 @@ git commit
 git merge bugFix
 ```
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 ## 4: Rebase Introduction
 
@@ -51,4 +51,4 @@ git checkout bugFix
 git rebase main
 ```
 
-![alt text](image-2.png)
+![alt text](./images/image-2.png)

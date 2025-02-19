@@ -1,4 +1,4 @@
-# level 4 - A Mixed Bag
+# A Mixed Bag
 
 ## 1: Grabbing Just 1 Commit
 
@@ -9,7 +9,7 @@ git checkout main
 git cherry-pick c4
 ```
 
-![alt text](<Screenshot 2025-02-18 190005.png>)
+![alt text](./images/Screenshot%202025-02-18%20190005.png)
 
 ## 2: Juggling Commits
 
@@ -22,7 +22,7 @@ git rebase -i HEAD~2
 git branch -f main c3''
 ```
 
-![alt text](<Screenshot 2025-02-19 102343.png>)
+![alt text](./images/Screenshot%202025-02-19%20102343.png)
 
 ## 3: Juggling Commits #2
 
@@ -35,7 +35,7 @@ git branch -f main c3
 git rabase -i HEAD~2
 ```
 
-![alt text](<Screenshot 2025-02-19 103101.png>)
+![alt text](./images/Screenshot%202025-02-19%20103101.png)
 
 ## 4: Git Tags
 
@@ -47,7 +47,7 @@ git tag v0 c1
 git checkout side^
 ```
 
-![alt text](<Screenshot 2025-02-19 104209.png>)
+![alt text](./images/Screenshot%202025-02-19%20104209.png)
 
 ## 5: Git Describe
 
@@ -57,4 +57,4 @@ git checkout side^
 git commit
 ```
 
-![alt text](<Screenshot 2025-02-19 104525.png>)
+![alt text](./images/Screenshot%202025-02-19%20104525.png)

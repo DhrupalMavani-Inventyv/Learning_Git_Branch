@@ -1,4 +1,4 @@
-# level 5 - Advanced Topics
+# Advanced Topics
 
 ## 1: Rebasing over 9000 times
 
@@ -14,7 +14,7 @@ git rebase side
 git branch -f main c7'
 ```
 
-![alt text](image-16.png)
+![alt text](./images/image-16.png)
 
 ## 2: Multiple parents
 
@@ -24,7 +24,7 @@ git branch -f main c7'
 git branch -f bugWork c2
 ```
 
-![alt text](image-14.png)
+![alt text](./images/image-14.png)
 
 ## 3: Spaghetti
 
@@ -38,4 +38,4 @@ git cherry-pick c5 c4 c3 c2
 git branch -f three c2
 ```
 
-![alt text](image-15.png)
+![alt text](./images/image-15.png)

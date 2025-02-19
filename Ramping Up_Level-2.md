@@ -1,4 +1,4 @@
-# level 2
+# Ramping Up
 
 ## 1: Detach yo' HEAD
 
@@ -10,7 +10,7 @@ show goal
 git checkout c4
 ```
 
-![alt text](<Screenshot 2025-02-18 182055.png>)
+![alt text](./images/Screenshot%202025-02-18%20182055.png)
 
 ## 2: Relative Refs (^)
 
@@ -22,7 +22,7 @@ show goal
 git checkout bugFix^
 ```
 
-![alt text](image-6.png)
+![alt text](./images/image-6.png)
 
 ## 3: Relative Refs #2 (~)
 
@@ -38,7 +38,7 @@ git bbranch -f bugFix HEAD~1
 git branch -f bugFix HEAD~1
 ```
 
-![alt text](<Screenshot 2025-02-18 183332.png>)
+![alt text](./images/Screenshot%202025-02-18%20183332.png)
 
 ## 4: Reversing Changes in Git
 
@@ -52,4 +52,4 @@ git checkout pushed
 git revert pushed
 ```
 
-![alt text](<Screenshot 2025-02-18 183619.png>)
+![alt text](./images/Screenshot%202025-02-18%20183619.png)
